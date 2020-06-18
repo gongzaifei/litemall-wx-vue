@@ -63,6 +63,12 @@
         "text": "首页"
       },
       {
+        "pagePath": "pages/groupon/grouponList/grouponList",
+        "iconPath": "static/images/groupbuy.png",
+        "selectedIconPath": "static/images/groupbuy@selected.png",
+        "text": "团购"
+      },
+      {
         "pagePath": "pages/catalog/catalog",
         "iconPath": "static/images/category.png",
         "selectedIconPath": "static/images/category@selected.png",
